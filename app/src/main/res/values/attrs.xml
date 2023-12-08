@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 圆形进度条 -->
+    <declare-styleable name="CircleProgressBar">
+        <attr name="circleWidth" format="float" /> <!--底层圆形宽度-->
+        <attr name="circleColor" format="color" /> <!--底层圆形颜色-->
+        <attr name="arcWidth" format="float" /> <!--上层弧形宽度-->
+        <attr name="arcColor" format="color" /><!--上层弧形颜色-->
+        <attr name="textColor" format="color" /><!--文本颜色-->
+        <attr name="textSize" format="float" /><!--文本字体大小-->
+        <attr name="initProgress" format="integer" /><!--进度-->
+    </declare-styleable>
+</resources>

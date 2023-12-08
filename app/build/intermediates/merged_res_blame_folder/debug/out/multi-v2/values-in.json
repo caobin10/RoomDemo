@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.noober.floatmenu.app-mergeDebugResources-8:/values-in/values-in.xml",
+            "outputFile": "com.bignerdranch.roomdemo.app-mergeDebugResources-19:/values-in/values-in.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ASUS\\.gradle\\caches\\transforms-3\\1596903906f7431110fd7d79e7e56eb5\\transformed\\core-1.3.2\\res\\values-in\\values-in.xml",
+                    "source": "C:\\Users\\ASUS\\.gradle\\caches\\transforms-3\\71ee76ddabf21d9577666745d2c46062\\transformed\\core-1.3.1\\res\\values-in\\values-in.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

@@ -1,1 +1,2 @@
-include ':app', ':menu'
+include ':app'
+rootProject.name = "RoomDemo"
