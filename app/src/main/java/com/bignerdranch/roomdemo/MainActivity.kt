@@ -25,6 +25,8 @@ import kotlinx.android.synthetic.main.activity_main.recyclerView
  */
 class MainActivity : AppCompatActivity(), OnItemLongClickListener {
 
+    //
+
     private val mStudentAdapter by lazy {
         StudentAdapter().apply {
             setOnItemLongClickListener(this@MainActivity)
